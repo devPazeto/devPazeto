@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do devPazeto 😁
+## Bem-vindo(a) e obrigado pela visita ao meu perfil devPazeto 😁
 
  <div>
   <a href="https://github.com/devPazeto">
