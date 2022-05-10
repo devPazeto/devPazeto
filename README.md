@@ -13,7 +13,7 @@
  
  <br>
  
-  ### Conteúdo de estudo e amostra de código para empresas interessadas!
+  ### Contato para empresas interessadas!
  
 <div> 
   
