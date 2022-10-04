@@ -1,17 +1,5 @@
 ## Bem-vindo(a) e obrigado pela visita ao meu perfil devPazeto 😁
 
- <div>
-  <a href="https://github.com/devPazeto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devPazeto&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devPazeto&layout=compact&langs_count=6&theme=merko"/>
-</div>
-<div style="display: inline_block"><br>
-  
-  <img align="center" alt="JAVA" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  
-</div>
- 
- <br>
  
   ### Contato para empresas interessadas!
  
