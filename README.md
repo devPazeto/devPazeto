@@ -1,4 +1,4 @@
-## Bem-vindo(a) e obrigado pela visita ao meu perfil devPazeto 😁
+## Bem-vindo(a) e obrigado pela visita ao meu perfil de estudos!! devPazeto 😁
 
  
  <div>
